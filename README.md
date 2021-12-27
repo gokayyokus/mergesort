@@ -12,4 +12,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
    
 Big-O gösterimini yazınız.
     
-    O(n²)
+    O(nLogn)
